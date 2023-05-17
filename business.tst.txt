@@ -1,0 +1,7 @@
+
+
+Business Entities:
+		The main business entites for Employee Management System is to hire a candidate for particular job. Can review the CV of all candidate who applied for the job. Operation can perform send mails, call for interview, shortlist cadidate status should be uploaded, interview online call, notification or remainder should be sent to jobseeker about sechudle interview. 
+		Operation for interviewer can be able to sechudle candidate, timing of the interview.
+		upload CV should be well maintain in database for future uses which can be access by HR
+

@@ -1,0 +1,8 @@
+
+Employee Recruitment System is a system in which jobseeker can register themselves online, for organization requirements can apply for the job and they can search for the role from the applied job seeker candidate. The system have facility where candidate apply for the job
+
+Purpose:
+
+The main purpose of Employee Recruitment System is a organsization can search for particular candidate for a particular role and for job seeker this websystem is where they can upload a CV for a particular role. JobSeeker can see the status of their application. HR of organsization can see  candidate and select a suitable person for a praticular role.
+
+Q2.

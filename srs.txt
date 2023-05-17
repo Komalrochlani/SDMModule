@@ -1,0 +1,19 @@
+
+
+Functional Requirements 
+1. Admin/HR function :
+			The main function of Admin/HR, when their is vacancy in organization, he/she can give description about the role in job portal.
+			Admin/HR can see the candidate applied for a job.
+			They can call or mail based on CV review shotlisted candidate if their requirement staisfied the job, call for 2nd round.
+			Can upload a status of candidate whether selected or not selected.
+			With selected student can discuss the salary.			
+
+2.JobSeeker:
+			Jobseeker can view the vacancy in the organization.
+			He/She can upload a CV in the job portal, can see the status of the profile whether selected or not.
+			
+
+3.Advierstment:
+			Organistation can make proper adviertment which profile vacany is vacant.
+			Organistation can be able to see the status profile.
+
